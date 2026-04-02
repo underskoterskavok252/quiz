@@ -1,5 +1,5 @@
 const quizData = [
-{q:"Vad betyder inkludering?", a:["Alla lika","Alla delaktiga","Endast vissa"], correct:1},
+{q:"Vad betyder inkludering?", a:["Alla människor får vara med och känna sig delaktiga, oavsett funktionsnedsättning, ålder eller bakgrund.","Alla delaktiga","Endast vissa"], correct:1},
 {q:"Vad är autonomi?", a:["Regler","Självbestämmande","Grupp"], correct:1},
 {q:"Vad är livskvalitet?", a:["Välmående","Pengar","Regler"], correct:0}
 ];
